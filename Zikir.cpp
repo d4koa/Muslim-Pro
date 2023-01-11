@@ -3,5 +3,7 @@ using namespace std;
 
 int main()
 {
-  cout << "Gabut";
+  string zikir;
+  zikir = "Atagfirullah, Subhanallah, Alhamdulillah dan Allahuakbar.";
+  cout << zikir;
  }
